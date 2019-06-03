@@ -12,13 +12,13 @@
 ## Installation
 
 ```
-$ npm install --save react-native-invoke-app
-$ react-native link react-native-invoke-app
+$ npm install --save react-native-deepcare-invoke
+$ react-native link react-native-deepcare-invoke
 ```
 
 ## Usage
 ```javascript
-import invokeApp from 'react-native-invoke-app';
+import invokeApp from 'react-native-deepcare-invoke';
 
 // Within your headless function
 invokeApp();
