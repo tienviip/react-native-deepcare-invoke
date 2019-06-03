@@ -1,17 +1,17 @@
 {
-  "name": "react-native-invoke-app",
+  "name": "react-native-deepcare-invoke",
   "description": "",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "index.js",
   "author": {
-    "name": "Ganapathy S",
-    "email": "vignesh@syncwithtech.org",
-    "url": "https://www.syncwithtech.org"
+    "name": "nvTien",
+    "email": "tulaptrinh2013@gmail.com",
+    "url": "https://www.24h.com.vn"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vicke4/react-native-invoke-app.git"
+    "url": "https://github.com/tienviip/react-native-deepcare-invoke.git"
   },
   "keywords": [
     "react-native",
@@ -20,8 +20,8 @@
     "invoke app"
   ],
   "bugs": {
-    "url": "https://github.com/vicke4/react-native-invoke-app/issues",
-    "email": "vignesh@syncwithtech.org"
+    "url": "https://github.com/tienviip/react-native-deepcare-invoke/issues",
+    "email": "tulaptrinh2013@gmail.com"
   },
   "peerDependencies": {
     "react-native": "^0.41.2"
